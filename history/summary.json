@@ -24,19 +24,19 @@
     "url": "https://superset.p2.csgroup.space",
     "icon": "https://icons.duckduckgo.com/ip3/superset.p2.csgroup.space.ico",
     "slug": "data-analytics",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1377,
-    "timeDay": 1089,
-    "timeWeek": 1427,
-    "timeMonth": 1377,
-    "timeYear": 1377,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1374,
+    "timeDay": 1151,
+    "timeWeek": 1410,
+    "timeMonth": 1374,
+    "timeYear": 1374,
     "dailyMinutesDown": {
-      "2022-11-04": 0
+      "2022-11-04": 13
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-04": 583,
+      "2022-11-04": 596,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
