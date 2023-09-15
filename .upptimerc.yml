@@ -8,7 +8,7 @@ sites:
   - name: Data analytics
     url: https://superset.p2.csgroup.space
   - name: Lab
-    url: https://nb.p2.csgroup.space
+    url: https://nb.p2.csgroup.space/hub/
   - name: Auth server
     url: https://auth.p2.csgroup.space/
   - name: Veille server
