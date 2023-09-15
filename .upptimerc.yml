@@ -7,9 +7,13 @@ sites:
     url: https://p2.csgroup.space
   - name: Data analytics
     url: https://superset.p2.csgroup.space
-  - name: Feature server
-    url: https://feature.p2.csgroup.space/
-   
+  - name: Lab server
+    url: https://nb.p2.csgroup.space/
+  - name: Auth server
+    url: https://auth.p2.csgroup.space/
+  - name: Veille server
+    url: https://veille.p2.csgroup.space/
+    
 assignees: # Users to assign downtime issues (optional)
   - geonux
   
@@ -19,7 +23,7 @@ status-website:
   cname: status.p2.csgroup.space
   # baseUrl: /p2-status-page
   logoUrl: https://p2.csgroup.space/static/images/metis-logo.png
-  name: P2 Services status
+  name: P2 Services status (METIS Powered)
   introTitle: "This is the uptime monitor and status page for the **METIS P2 Platform**."
   introMessage: If a service doesn't work properly, you may find the reason here. If not, please open an issue.
   navbar:
