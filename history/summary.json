@@ -50,19 +50,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nb.p2.csgroup.space.ico",
     "slug": "lab",
     "status": "up",
-    "uptime": "7.00%",
-    "uptimeDay": "7.00%",
-    "uptimeWeek": "7.00%",
-    "uptimeMonth": "7.00%",
-    "uptimeYear": "7.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1088,
     "timeDay": 1088,
     "timeWeek": 1088,
     "timeMonth": 1088,
     "timeYear": 1088,
-    "dailyMinutesDown": {
-      "2023-09-15": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Auth server",
