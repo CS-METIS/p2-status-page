@@ -7,13 +7,15 @@ sites:
     url: https://p2.csgroup.space
   - name: Data analytics
     url: https://superset.p2.csgroup.space
-  - name: Lab server
+  - name: Lab
     url: https://nb.p2.csgroup.space
   - name: Auth server
     url: https://auth.p2.csgroup.space/
   - name: Veille server
     url: https://veille.p2.csgroup.space/
-    
+  - name: HelpDesk
+    url: https://help.p2.csgroup.space/
+  
 assignees: # Users to assign downtime issues (optional)
   - geonux
   
