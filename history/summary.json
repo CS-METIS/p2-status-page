@@ -85,19 +85,19 @@
     "url": "https://veille.p2.csgroup.space/",
     "icon": "https://icons.duckduckgo.com/ip3/veille.p2.csgroup.space.ico",
     "slug": "veille-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 753,
-    "timeWeek": 932,
-    "timeMonth": 916,
-    "timeYear": 916,
+    "status": "up",
+    "uptime": "98.96%",
+    "uptimeDay": "88.42%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.96%",
+    "time": 909,
+    "timeDay": 769,
+    "timeWeek": 918,
+    "timeMonth": 909,
+    "timeYear": 909,
     "dailyMinutesDown": {
-      "2023-09-26": 0
+      "2023-09-26": 167
     }
   },
   {
