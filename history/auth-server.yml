@@ -1,7 +1,7 @@
 url: https://auth.p2.csgroup.space/
-status: down
-code: 503
-responseTime: 158
-lastUpdated: 2023-10-05T07:30:13.693Z
+status: up
+code: 200
+responseTime: 237
+lastUpdated: 2023-10-05T07:42:27.840Z
 startTime: 2023-09-15T11:08:11.889Z
 generator: Upptime <https://github.com/upptime/upptime>
