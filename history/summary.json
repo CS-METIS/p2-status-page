@@ -82,11 +82,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/veille.p2.csgroup.space.ico",
     "slug": "veille-server",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.15%",
     "uptimeMonth": "99.34%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 1218,
     "timeDay": 716,
     "timeWeek": 931,
@@ -103,17 +103,19 @@
     "url": "https://help.p2.csgroup.space/",
     "icon": "https://icons.duckduckgo.com/ip3/help.p2.csgroup.space.ico",
     "slug": "help-desk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 576,
-    "timeDay": 497,
-    "timeWeek": 575,
-    "timeMonth": 554,
+    "timeDay": 564,
+    "timeWeek": 582,
+    "timeMonth": 556,
     "timeYear": 576,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-01": 0
+    }
   }
 ]
