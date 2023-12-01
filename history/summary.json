@@ -103,19 +103,19 @@
     "url": "https://help.p2.csgroup.space/",
     "icon": "https://icons.duckduckgo.com/ip3/help.p2.csgroup.space.ico",
     "slug": "help-desk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 576,
-    "timeDay": 564,
-    "timeWeek": 582,
-    "timeMonth": 556,
-    "timeYear": 576,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 574,
+    "timeDay": 517,
+    "timeWeek": 564,
+    "timeMonth": 552,
+    "timeYear": 574,
     "dailyMinutesDown": {
-      "2023-12-01": 0
+      "2023-12-01": 26
     }
   }
 ]
