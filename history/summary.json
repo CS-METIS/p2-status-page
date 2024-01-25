@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 599,
-    "timeDay": 452,
-    "timeWeek": 595,
-    "timeMonth": 565,
-    "timeYear": 581,
+    "timeDay": 461,
+    "timeWeek": 567,
+    "timeMonth": 568,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2023-05-15": 82
     }
@@ -31,13 +31,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1538,
-    "timeDay": 1195,
-    "timeWeek": 1445,
-    "timeMonth": 1738,
-    "timeYear": 1587,
+    "timeDay": 1413,
+    "timeWeek": 1416,
+    "timeMonth": 1748,
+    "timeYear": 1585,
     "dailyMinutesDown": {
-      "2023-08-23": 30,
-      "2023-01-25": 21
+      "2023-08-23": 30
     }
   },
   {
@@ -51,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1631,
-    "timeDay": 1394,
-    "timeWeek": 1443,
-    "timeMonth": 1497,
-    "timeYear": 1631,
+    "time": 1628,
+    "timeDay": 1163,
+    "timeWeek": 1357,
+    "timeMonth": 1491,
+    "timeYear": 1628,
     "dailyMinutesDown": {
       "2024-01-03": 18
     }
@@ -72,8 +71,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 132,
-    "timeDay": 111,
-    "timeWeek": 120,
+    "timeDay": 93,
+    "timeWeek": 111,
     "timeMonth": 122,
     "timeYear": 132,
     "dailyMinutesDown": {
@@ -86,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/veille.p2.csgroup.space.ico",
     "slug": "veille-server",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.66%",
-    "time": 1299,
-    "timeDay": 935,
-    "timeWeek": 961,
-    "timeMonth": 1117,
-    "timeYear": 1299,
+    "uptimeYear": "99.67%",
+    "time": 1295,
+    "timeDay": 746,
+    "timeWeek": 913,
+    "timeMonth": 1116,
+    "timeYear": 1295,
     "dailyMinutesDown": {
       "2024-01-03": 18,
       "2023-11-28": 287,
@@ -115,9 +114,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 582,
-    "timeDay": 496,
-    "timeWeek": 531,
-    "timeMonth": 579,
+    "timeDay": 497,
+    "timeWeek": 509,
+    "timeMonth": 581,
     "timeYear": 582,
     "dailyMinutesDown": {
       "2024-01-03": 17,
