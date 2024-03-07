@@ -1,7 +1,7 @@
 url: https://veille.p2.csgroup.space/
-status: up
-code: 200
-responseTime: 1310
-lastUpdated: 2024-03-06T23:12:03.851Z
+status: down
+code: 503
+responseTime: 1021
+lastUpdated: 2024-03-07T17:06:01.595Z
 startTime: 2023-09-15T11:08:13.109Z
 generator: Upptime <https://github.com/upptime/upptime>
