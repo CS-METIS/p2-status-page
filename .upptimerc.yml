@@ -5,6 +5,8 @@ repo: p2-status-page
 sites:
   - name: Landing page
     url: https://p2.csgroup.space
+  - name: SharingHub
+    url: https://sharinghub.p2.csgroup.space
   - name: Data analytics
     url: https://superset.p2.csgroup.space
   - name: Lab
