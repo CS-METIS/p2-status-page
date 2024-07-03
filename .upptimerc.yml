@@ -6,7 +6,7 @@ sites:
   - name: Landing page
     url: https://p2.csgroup.space
   - name: SharingHub
-    url: https://sharinghub.p2.csgroup.space
+    url: https://sharinghub.p2.csgroup.space/openapi.json
   - name: Data analytics
     url: https://superset.p2.csgroup.space
   - name: Lab
