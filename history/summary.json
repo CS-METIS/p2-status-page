@@ -24,18 +24,20 @@
     "url": "https://sharinghub.p2.csgroup.space/openapi.json",
     "icon": "https://icons.duckduckgo.com/ip3/sharinghub.p2.csgroup.space.ico",
     "slug": "sharing-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 722,
-    "timeDay": 583,
-    "timeWeek": 804,
-    "timeMonth": 743,
-    "timeYear": 722,
-    "dailyMinutesDown": {}
+    "time": 717,
+    "timeDay": 487,
+    "timeWeek": 752,
+    "timeMonth": 731,
+    "timeYear": 717,
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "Data analytics",
