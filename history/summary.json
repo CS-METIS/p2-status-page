@@ -4,18 +4,19 @@
     "url": "https://p2.csgroup.space",
     "icon": "https://icons.duckduckgo.com/ip3/p2.csgroup.space.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
+    "time": 566,
     "timeDay": 384,
     "timeWeek": 459,
     "timeMonth": 548,
     "timeYear": 573,
     "dailyMinutesDown": {
+      "2024-09-18": 0,
       "2024-03-07": 23
     }
   },
