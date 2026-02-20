@@ -1,7 +1,7 @@
 url: https://superset.p2.csgroup.space
-status: up
-code: 200
-responseTime: 1312
-lastUpdated: 2026-02-19T23:27:41.055Z
+status: down
+code: 500
+responseTime: 1802
+lastUpdated: 2026-02-20T10:26:51.550Z
 startTime: 2022-10-10T11:39:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
