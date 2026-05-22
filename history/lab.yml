@@ -1,7 +1,7 @@
 url: https://nb.p2.csgroup.space/hub/
-status: up
-code: 200
-responseTime: 1763
-lastUpdated: 2026-05-21T23:59:50.349Z
+status: down
+code: 503
+responseTime: 672
+lastUpdated: 2026-05-22T09:47:00.316Z
 startTime: 2023-09-15T11:14:40.207Z
 generator: Upptime <https://github.com/upptime/upptime>
